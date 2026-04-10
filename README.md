@@ -11,6 +11,7 @@ A curated list of resources for Purple Heart recipients, combat veterans, and th
 ---
 
 ## Table of Contents
+- [National Purple Heart Benefits](#national-purple-heart-benefits)
 
 - [Missouri](#missouri)
   - [Official State & Federal Agencies](#-official-state--federal-agencies)
