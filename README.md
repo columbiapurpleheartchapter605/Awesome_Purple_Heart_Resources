@@ -26,6 +26,50 @@ A curated list of resources for Purple Heart recipients, combat veterans, and th
 
 ---
 
+## 🎖️ National Purple Heart Benefits
+
+These benefits apply to **all Purple Heart recipients** regardless of what state you live in.
+
+> These are benefits specific to the Purple Heart award. Purple Heart recipients also remain eligible for all standard VA and veteran benefits.
+
+### 🏥 Health Care
+
+- **VA Priority Group 3** — Purple Heart recipients are automatically placed in VA Priority Group 3, giving higher-priority access to medical care regardless of disability rating or income.
+- **No VA Copays** — Recipients are exempt from copayments for VA medical treatment and hospitalization.
+- **Expedited Claims Processing** — The Purple Heart serves as supporting evidence for VA disability claims, reducing the burden of proof required.
+
+### 🎓 Education
+
+- **Full GI Bill Benefits** — Purple Heart recipients awarded on or after September 11, 2001 are eligible for 36 months of 100%-level Post-9/11 GI Bill benefits regardless of length of service. ([VA GI Bill](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/))
+- **Yellow Ribbon Program** — Additional support covering tuition and fees beyond standard GI Bill limits. ([VA Yellow Ribbon](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/))
+- [MOPH Scholarship Program](https://www.purpleheart.org/ScholarshipProgram) — Scholarships for Purple Heart recipients and their spouses, children, and grandchildren.
+
+### 💼 Employment
+
+- **10-Point Federal Hiring Preference** — Purple Heart recipients with an honorable discharge receive a permanent 10-point preference on federal job applications. Must submit [SF-15 Form](https://www.opm.gov/forms/pdf_fill/sf15.pdf) to claim. ([OPM Veterans Preference](https://www.opm.gov/policy-data-oversight/veterans-services/vet-guide-for-hr-professionals/))
+
+### 🏠 Housing & Loans
+
+- **VA Home Loan Funding Fee Exemption** — Purple Heart recipients on active duty or receiving disability compensation are exempt from the VA home loan funding fee. ([VA Home Loans](https://www.va.gov/housing-assistance/home-loans/))
+- **Specially Adapted Housing Grant** — Fully disabled recipients may be eligible for grants to modify their home to accommodate their disability. ([VA SAH Grant](https://www.va.gov/housing-assistance/adaptive-housing-grants/))
+
+### 🛒 Shopping & Recreation
+
+- **Commissary & Exchange Access** — All Purple Heart recipients can shop at military commissaries and exchanges for cost savings. ([Defense Commissary Agency](https://www.commissaries.com/))
+- **MWR Lodging & Retail Access** — Access to Morale, Welfare, and Recreation retail and lodging facilities. ([MWR](https://www.militaryonesource.mil/recreation-travel-shopping/))
+- **National Parks Free Access** — Veterans with service-connected disabilities (including many Purple Heart recipients) qualify for a free lifetime America the Beautiful pass. ([National Parks Service](https://www.nps.gov/subjects/fees/passes.htm))
+
+### 💰 Financial
+
+- **Combat Related Special Compensation (CRSC)** — Tax-free monthly pay for military retirees with combat-related disabilities, paid in addition to retirement pay. ([DFAS CRSC](https://www.dfas.mil/retiredmilitary/disability/crsc/))
+- **VA Disability Compensation** — Monthly tax-free compensation based on service-connected disability rating. ([VA Disability](https://www.va.gov/disability/))
+
+### 📚 Key National Resources
+
+- [Military.com – Purple Heart Benefits Guide](https://www.military.com/benefits/veteran-benefits/purple-heart-benefits.html) — Comprehensive overview of all federal Purple Heart benefits.
+- [VA Benefits Overview](https://www.va.gov/benefits/) — Full listing of all VA programs and how to apply.
+- [National Purple Heart Hall of Honor](https://www.thepurplehearthallofhonor.com/) — Museum and registry honoring all Purple Heart recipients.
+- [Military Order of the Purple Heart – National](https://www.purpleheart.org) — Advocacy, service programs, and support for Purple Heart recipients and their families.
 ## Missouri
 
 ### 🏛️ Official State & Federal Agencies
