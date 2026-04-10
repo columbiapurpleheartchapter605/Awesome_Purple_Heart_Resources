@@ -75,6 +75,7 @@ A curated list of resources for Purple Heart recipients, combat veterans, and th
 - [University of Missouri Veterans Center](https://veteranscenter.missouri.edu/) — Resources, advising, and community for student veterans at Mizzou.
 - [Missouri "Operation Recognition" Honorary Diplomas](https://dese.mo.gov/) — Honorary high school diplomas for veterans who left school to serve during wartime.
 - [Missouri Purple Star School Program](https://dese.mo.gov/) — Recognizes military-friendly schools with dedicated liaisons and resources for military families.
+- [Military Order of the Purple Heart ScholarShip](https://www.purpleheart.org/ScholarshipProgram) — Scholarship for Purple Heart recipients and their spouses, children, and grandchildren
 
 ### 💼 Employment
 
