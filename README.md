@@ -5,6 +5,7 @@ A curated list of resources for Purple Heart recipients, combat veterans, and th
 > **Contributions welcome!** If you know of a resource that should be listed, please open a pull request.
 
 [**Nation MOPH Website**](https://www.purpleheart.org)
+[**Columbia MOPH Chapter 605 Facebook Page**](https://www.facebook.com/groups/1395858355547293)
 
 ---
 
