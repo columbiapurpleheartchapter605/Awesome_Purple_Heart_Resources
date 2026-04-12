@@ -116,6 +116,7 @@ These benefits apply to **all Purple Heart recipients** regardless of what state
 ### 🎓 Education
 
 - [Missouri Returning Heroes Education Act](https://dhewd.mo.gov/) — Caps tuition at $50/credit hour at public Missouri colleges for eligible combat veterans (post-9/11).
+- [Heros 2 Hives](https://extension.missouri.edu/programs/heroes-to-hives) — Heros to Hives is a program to help veterans get into bee keeping.
 - [War Veterans' Survivor Grant Program](https://dhewd.mo.gov/) — Annual grants for children (under 25) and spouses of veterans killed or severely disabled in combat since 9/11.
 - [University of Missouri Veterans Center](https://veteranscenter.missouri.edu/) — Resources, advising, and community for student veterans at Mizzou.
 - [Missouri "Operation Recognition" Honorary Diplomas](https://dese.mo.gov/) — Honorary high school diplomas for veterans who left school to serve during wartime.
